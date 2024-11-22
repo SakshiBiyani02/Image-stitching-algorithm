@@ -104,14 +104,23 @@ feature matches, is saved as .jpeg files.
 ### Image 1
 ![img1](https://github.com/SakshiBiyani02/Image-stitching-algorithm/blob/main/img1.jpg)
 ### Image 2
+![img2](https://github.com/SakshiBiyani02/Image-stitching-algorithm/blob/main/img2.jpg)
 ### Image 3
+![img3](https://github.com/SakshiBiyani02/Image-stitching-algorithm/blob/main/img3.jpg)
 ### Image 4
+![img4](https://github.com/SakshiBiyani02/Image-stitching-algorithm/blob/main/img4.jpg)
 ### Image 5
+![img5](https://github.com/SakshiBiyani02/Image-stitching-algorithm/blob/main/img5.jpg)
 ### Image 6
+![img6](https://github.com/SakshiBiyani02/Image-stitching-algorithm/blob/main/img6.jpg)
 ### Image 7
+![img7](https://github.com/SakshiBiyani02/Image-stitching-algorithm/blob/main/img7.jpg)
 ### Image 8
+![img8](https://github.com/SakshiBiyani02/Image-stitching-algorithm/blob/main/img8.jpg)
 ## Output
+## Console output
+![console_output](https://github.com/SakshiBiyani02/Image-stitching-algorithm/blob/main/console_output.png)
 ## Dense feature lines while processing the task
-![dense]()
+![dense](https://github.com/SakshiBiyani02/Image-stitching-algorithm/blob/main/dense_feature_lines_output.jpg)
 ## Final stitched output
 ![Output](https://github.com/SakshiBiyani02/Image-stitching-algorithm/blob/main/stitched_output%20(1).jpeg)
