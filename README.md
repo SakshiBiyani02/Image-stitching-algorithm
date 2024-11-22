@@ -8,20 +8,20 @@ original content and layout intact.
 1. Programming Language: 
 Python 
 2. Libraries and Key Functions: 
-OpenCV: 
-cv2.ORB_create() – For ORB feature detection. 
-cv2.BFMatcher() – For feature matching. 
-cv2.Stitcher.create() – For stitching images together. 
-cv2.drawKeypoints() – For visualizing keypoints. 
-cv2.imwrite() – For saving images. 
-cv2.line() – For drawing lines between keypoints. 
-cv2.putText() – For adding text annotations. 
-NumPy: 
-np.random.randint() – For generating random colors. 
+2.1 OpenCV: 
+2.1.1 cv2.ORB_create() – For ORB feature detection. 
+2.1.2 cv2.BFMatcher() – For feature matching. 
+2.1.3 cv2.Stitcher.create() – For stitching images together. 
+2.1.4 cv2.drawKeypoints() – For visualizing keypoints. 
+2.1.5 cv2.imwrite() – For saving images. 
+2.1.6 cv2.line() – For drawing lines between keypoints. 
+2.1.7 cv2.putText() – For adding text annotations. 
+2.2 NumPy: 
+2.2.1 np.random.randint() – For generating random colors. 
 3. Platform: Google Colab 
-files.upload() – For uploading images. 
+3.1 files.upload() – For uploading images. 
 4. Output Format: 
-JPEG (.jpeg) – For saving the final stitched image. 
+4.1 JPEG (.jpeg) – For saving the final stitched image. 
 # Algorithm Used :  
 The main algorithm used in this code is the Feature-Based Image Stitching algorithm. It 
 uses ORB (Oriented FAST and Rotated BRIEF) for feature detection and description. The 
