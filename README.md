@@ -16,9 +16,12 @@ Python
 #### cv2.imwrite() – For saving images. 
 #### cv2.line() – For drawing lines between keypoints. 
 #### cv2.putText() – For adding text annotations. 
-### NumPy: np.random.randint() – For generating random colors. 
-## 3. Platform: Google Colab that uses files.upload() – For uploading images. 
-## 4. Output Format: JPEG (.jpeg) – For saving the final stitched image. 
+### NumPy:
+#### np.random.randint() – For generating random colors. 
+## 3. Platform: Google Colab 
+### files.upload() – For uploading images. 
+## 4. Output Format: 
+### JPEG (.jpeg) – For saving the final stitched image. 
 # Algorithm Used :  
 The main algorithm used in this code is the Feature-Based Image Stitching algorithm. It 
 uses ORB (Oriented FAST and Rotated BRIEF) for feature detection and description. The 
