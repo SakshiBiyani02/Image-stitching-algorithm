@@ -100,6 +100,17 @@ homographies and aligning the images.
 5. Saving Output: The final stitched image, along with visualizations of keypoints and 
 feature matches, is saved as .jpeg files. 
 # Result 
+## Input
+### Image 1
+![img1](https://github.com/SakshiBiyani02/Image-stitching-algorithm/blob/main/img1.jpg)
+### Image 2
+### Image 3
+### Image 4
+### Image 5
+### Image 6
+### Image 7
+### Image 8
+## Output
 ## Dense feature lines while processing the task
 ![dense]()
 ## Final stitched output
